@@ -17,7 +17,7 @@ A list of Web MIDI API resources: Books, Articles, Libraries, Projects etc...
 
 ## Websites, Demos, Projects etc...
 
-
+- [Simple MIDI Test Page](https://khoin.github.io/midi)
 
 
 Feel free to add and PR :)
